@@ -22,7 +22,7 @@ Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in buil
 - [sigma by Davo Sime from the Noun Project](https://thenounproject.com/search/?q=sigma&i=607382)
 - [tools by Viktor Vorobyev from the Noun Project](https://thenounproject.com/search/?q=hammer&i=561830)
 - [Info by Lance Weisser from the Noun Project](https://thenounproject.com/search/?q=info&i=91723)
-- C++ Logo - https://cdn.worldvectorlogo.com/logos/c.svg
+- C++ Logo - https://worldvectorlogo.com/logo/c
 - Scala Logo - https://github.com/OlegIlyenko/scala-icon
 
 
