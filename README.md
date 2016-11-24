@@ -11,7 +11,16 @@ Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in buil
 ## References
 - https://speakerdeck.com/caitiem20/building-scalable-stateful-services-1
 - http://www.i-programmer.info/news/136-open-source/8220-microsoft-puts-orleans-code-on-github.html
+- http://www.slideshare.net/HiveData/tech-talk-rocksdb-slides-by-dhruba-borthakur-haobo-xu-of-facebook
+- http://www.slideshare.net/IgorCanadi/rocksdb-storage-engine-for-mysql-and-mongodb
+- http://www.slideshare.net/meeeejin/rocksdb-compaction
+- [Write Amplification](https://en.wikipedia.org/wiki/Write_amplification#Basic_SSD_operation)
+- [Read Amplification Factor](http://mysqlha.blogspot.in/2011/08/read-amplification-factor.html)
+- [The Chubby Lock Service for Loosely-Coupled Distributed Systems](http://research.google.com/archive/chubby.html)
+
+## Tools
 - [RocksDB](http://rocksdb.org/)
+- [Suuchi](https://github.com/ashwanthkumar/suuchi) - Toolkit for Building Distributed Data systems
 
 ## Image Credits
 - [Twitter by aguycalledgary](https://thenounproject.com/search/?q=twitter+bird&i=23267) from the Noun Project
