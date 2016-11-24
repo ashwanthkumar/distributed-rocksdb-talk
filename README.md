@@ -3,6 +3,8 @@ At Indix, all systems deal with huge volumes of data, which means, they need to 
 
 Slides - http://bit.ly/distributed-rocksdb
 
+Video - https://www.youtube.com/watch?v=PSCa9_Avne0
+
 ## About Author
 Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in building and operating large data systems. When not dealing with data, he spends his time reading research papers in similar topics. 
 
